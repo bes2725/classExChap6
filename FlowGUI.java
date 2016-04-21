@@ -1,3 +1,9 @@
+/*
+** Bailey Spicer
+** 4/20/2016
+** bes2725@email.vccs.edu
+** this program is a flow layout GUI which has an array to create four text fields
+*/
 
 import java.awt.*;
 import javax.swing.*;

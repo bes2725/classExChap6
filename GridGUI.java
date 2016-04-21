@@ -1,3 +1,10 @@
+/*
+** Bailey Spicer
+** 4/20/2016
+** bes2725@email.vccs.edu
+** this program is a grid layout GUI of size 2x2with only four textfields
+*/
+
 import java.awt.*;
 import javax.swing.*;
 import java.awt.event.*;

@@ -1,4 +1,10 @@
-
+/*
+** Bailey Spicer
+** bes2725@email.vccs.edu
+** 4/20/2016
+** this program is a basic flow layout GUI, which gets two input from the 
+** user and adds the two numbers and returns the sum
+*/
 import java.awt.*;
 import javax.swing.*;
 import java.awt.event.*;
