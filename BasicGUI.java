@@ -16,7 +16,7 @@ public class BasicGUI extends JFrame implements ActionListener
 
 	public BasicGUI()
 	{
-		frame = new JFrame("Assignment 6.1");
+		frame = new JFrame("Assignment 6.2");
 		frame.setVisible(true);
 		frame.setSize(300,300);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
